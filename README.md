@@ -158,7 +158,10 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Peter Lubega - [Github] (https://github.com/peterlubega) / [Twitter] (https://twitter.com/treyz256)
+Rino Kitembo - [Github] (https://github.com/KitemboRino) / [Twitter] (https://twitter.com/RiNO_KED)
 
 Second part of Airbnb: Joann Vuong
+4th Versin of Airbnb: by Peter and Rino
 ## License
 Public Domain. No copy write protection. 
